@@ -1,0 +1,87 @@
+{
+    "MAIN-1": {
+        "TYPE": "MAIN",
+        "parameters": {
+            "title": "Window",
+            "width": 950,
+            "height": 550
+        },
+        "pack_options": {},
+        "ID": "705aad28-3547-40d7-89e5-f47bba4a0cda",
+        "FRAME0": {
+            "TYPE": "FRAME",
+            "parameters": {
+                "width": 850,
+                "height": 64
+            },
+            "pack_options": {
+                "side": "bottom"
+            },
+            "ID": "dea3a6d6-94d9-4676-9833-f99a7a685a9f",
+            "PACK_PROPAGATE": "False",
+            "ENTRY1": {
+                "TYPE": "ENTRY",
+                "parameters": {
+                    "placeholder_text": "None",
+                    "width": 700,
+                    "height": 60
+                },
+                "pack_options": {
+                    "side": "left"
+                },
+                "ID": "fd8ca370-3d43-4d1c-90f4-8f06dd322cab"
+            },
+            "FRAME8": {
+                "TYPE": "FRAME",
+                "parameters": {},
+                "pack_options": {},
+                "ID": "c1475e36-f266-432e-9b52-41d896a5c528",
+                "PACK_PROPAGATE": "False",
+                "BUTTON9": {
+                    "TYPE": "BUTTON",
+                    "parameters": {
+                        "text": "",
+                        "height": 58,
+                        "corner_radius": 20,
+                        "image": {
+                            "image": "enter.png",
+                            "size": [
+                                55,
+                                64
+                            ]
+                        }
+                    },
+                    "pack_options": {
+                        "pady": [
+                            5,
+                            0
+                        ]
+                    },
+                    "ID": "f2000422-fe7a-485a-aa51-b932a1c10c7a"
+                }
+            }
+        },
+        "SCROLLABLEFRAME7": {
+            "TYPE": "SCROLLABLEFRAME",
+            "parameters": {
+                "orientation": "vertical",
+                "width": 800,
+                "height": 400
+            },
+            "pack_options": {},
+            "ID": "22170bee-5f95-412c-87eb-d59f0895ccdd",
+            "TEXTBOX11": {
+                "TYPE": "TEXTBOX",
+                "parameters": {
+                    "width": 780,
+                    "height": 390
+                },
+                "pack_options": {},
+                "ID": "ba2624e1-0cf7-4c0d-9baa-42d8cc70853b"
+            }
+        },
+        "theme": "blue",
+        "palette_on_change": {},
+        "palette": {}
+    }
+}
